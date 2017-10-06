@@ -1,0 +1,83 @@
+.search_input {
+	width: 450px;
+	height: 44px;
+}
+
+.button {
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2pm;
+	color: #757575;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 10px 16px;
+	text-align: center;
+}
+
+ul {
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#left {
+	float: left;
+
+}
+
+#right {
+	float: right;
+}
+
+.menu {
+	display: block;
+	padding: 8px;
+	float: left;
+	#font-weight: bold;
+	font-family: arial,sans-serif;
+}
+
+a {
+	color: grey;
+}
+
+#kids {
+	color: blue;
+}
+
+#login {
+	background-color: blue;
+}
+
+div {
+	padding: 0px;
+    margin: 10px;
+}
+
+.topmenu {
+	position: relative;
+	top: 0;
+	right: 0;
+}
+
+.center {
+	position: relative;
+	padding: 200px;
+	margin: 0px;
+}
+
+.footnavbar {
+	position: fixed;
+	background-color: #f2f2f2;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+a:link {
+	text-decoration: none;
+}
